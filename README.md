@@ -3,6 +3,7 @@
 
 ## Copyright by Quyen and Son
 ### How to run the code ?
+Use `git status` to list all new or modified files that haven't yet been committed.
 <p><b> Step 1: Install necessary things</b></p>
 <ul>
   <li>Install Ubuntu Desktop https://www.ubuntu.com/download</li>
