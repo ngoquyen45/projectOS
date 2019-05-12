@@ -14,7 +14,7 @@
         * Enter your password and type `"Y"` if asked.
 
 2. Download and run the code
-    - Download file zip and unzip it: http://bit.ly/2VZRjLg.
+    - Download file zip and unzip it: http://bit.ly/projectOS.
     - Copy all folders like `"/Quyen"`, `"/Son"`, `"/Quan1"`, `"/Quan2"`, `"/Son2"` to the folder containing the file BTL_HDH.c.
     - Open Terminal and type:
         * `gcc BTL_HDH.c`
