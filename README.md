@@ -15,7 +15,7 @@
 
 2. Download and run the code
     - Download file zip and unzip it: http://bit.ly/projectOS.
-    - Copy all folders like `"/Quyen"`, `"/Son"`, `"/Quan1"`, `"/Quan2"`, `"/Son2"` to the folder containing the file BTL_HDH.c.
+    - Copy all folders like `"/Quyen"`, `"/Son"`, `"/Quan1"`, `"/Quan2"`, `"/Son2"` to the folder containing the file projectOS.c.
     - Open Terminal and type:
-        * `gcc BTL_HDH.c`
+        * `gcc projectOS.c`
         * `./a.out`
