@@ -4,6 +4,10 @@
 ## Copyright by Quyen and Son
 ### How to run the code ?
 Use `git status` to list all new or modified files that haven't yet been committed.
+1. First list item
+    - First nested list item
+    - Second nested list item
+
 <p><b> Step 1: Install necessary things</b></p>
 <ul>
   <li>Install Ubuntu Desktop https://www.ubuntu.com/download</li>
