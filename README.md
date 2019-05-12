@@ -17,5 +17,6 @@
     - Download file rar and extract it: http://bit.ly/projectOS.
     - Copy all folders like `"/Quyen"`, `"/Son"`, `"/Quan1"`, `"/Quan2"`, `"/Son2"` to the folder containing the file projectOS.c.
     - Open Terminal and type:
+        * `cd` to the folder containing the file projectOS.c.
         * `gcc projectOS.c`.
         * `./a.out`.
