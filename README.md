@@ -3,12 +3,12 @@
 
 ## Copyright by Quyen and Son
 ### How to run the code ?
-<p><b> Step 1: <mark>Install necessary things<mark></b></p>
+<p><b> Step 1: Install necessary things</b></p>
 <ul>
   <li>Install Ubuntu Desktop https://www.ubuntu.com/download</li>
   <li>Install ffmpeg
     <ul>
-      <li>Open Terminal and type: <mark>sudo apt-get install ffmpeg</mark></li>
+      <li>Open Terminal and type: ```sudo apt-get install ffmpeg```</li>
       <li> Enter your password and type <span style="background-color: #CCFFFF">"Y"</span> if asked </li>
     </ul>
   </li>
