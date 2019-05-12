@@ -7,12 +7,16 @@
 <ul>
   <li>Install Ubuntu Desktop https://www.ubuntu.com/download</li>
   <li>Install ffmpeg
-    <li>Open Terminal and type: sudo apt-get install ffmpeg</li>
-    <li> Enter your password and type "Y" if asked </li>
+    <ul>
+      <li>Open Terminal and type: sudo apt-get install ffmpeg</li>
+      <li> Enter your password and type "Y" if asked </li>
+    </ul>
   </li>
   <li>Install gcc
-    <li>Open Terminal and type: sudo apt-get install gcc</li>
-    <li> Enter your password and type "Y" if asked </li>
+    <ul>
+      <li>Open Terminal and type: sudo apt-get install gcc</li>
+      <li> Enter your password and type "Y" if asked </li>
+    </ul>
   </li>
 </ul>
 <p><b> Step 2: Download and run the code</b></p>
