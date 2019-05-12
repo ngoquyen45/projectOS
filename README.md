@@ -8,7 +8,7 @@
   <li>Install Ubuntu Desktop https://www.ubuntu.com/download</li>
   <li>Install ffmpeg
     <ul>
-      <li>Open Terminal and type: `sudo apt-get install ffmpeg`</li>
+      <li>Open Terminal and type: \'sudo apt-get install ffmpeg\'</li>
       <li> Enter your password and type "Y" if asked </li>
     </ul>
   </li>
