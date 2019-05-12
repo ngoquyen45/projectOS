@@ -14,8 +14,8 @@
         * Enter your password and type `"Y"` if asked.
 
 2. __Download and run the code__
-    - Download file zip and unzip it: http://bit.ly/projectOS.
+    - Download file rar and extract it: http://bit.ly/projectOS.
     - Copy all folders like `"/Quyen"`, `"/Son"`, `"/Quan1"`, `"/Quan2"`, `"/Son2"` to the folder containing the file projectOS.c.
     - Open Terminal and type:
-        * `gcc projectOS.c`
-        * `./a.out`
+        * `gcc projectOS.c`.
+        * `./a.out`.
