@@ -23,8 +23,10 @@
 <ul>
   <li>Download file zip and unzip it: http://bit.ly/2VZRjLg</li>
   <li>Copy all folders like <span style="background-color: #CCFFFF">"/Quyen"</span>, <span style="background-color: #CCFFFF">"/Son"</span>, <span style="background-color: #CCFFFF">"/Quan1"</span>, <span style="background-color: #CCFFFF">"/Quan2"</span>, <span style="background-color: #CCFFFF">"/Son2"</span> to the folder containing the file BTL_HDH.c. <li>
-  <li>Open Terminal and type: 
-    <li><span style="background-color: #CCFFFF">gcc BTL_HDH.c</span></li>
-    <li><span style="background-color: #CCFFFF">./a.out</span></li>
+  <li>Open Terminal and type:
+    <ul>
+      <li><span style="background-color: #CCFFFF">gcc BTL_HDH.c</span></li>
+      <li><span style="background-color: #CCFFFF">./a.out</span></li>
+    </ul>
   </li>
 </ul>
