@@ -3,7 +3,7 @@
 
 ## Copyright by Quyen and Son
 ### How to run the code ?
-<p><b> Step 1: Install necessary things</b></p>
+<p><b> Step 1: <mark>Install necessary things<mark></b></p>
 <ul>
   <li>Install Ubuntu Desktop https://www.ubuntu.com/download</li>
   <li>Install ffmpeg
