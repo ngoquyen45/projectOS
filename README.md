@@ -3,8 +3,8 @@
 
 ## Copyright by Quyen and Son
 ### How to run the code ?
-
-<p><b> Step 1: Install necessary things</b></p> <hr>
+<hr>
+Step 1: Install necessary things
     - Install Ubuntu Desktop https://www.ubuntu.com/download
     - Install ffmpeg
         * Open Terminal and type: `sudo apt-get install ffmpeg`.
