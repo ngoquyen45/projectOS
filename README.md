@@ -3,12 +3,12 @@
 
 ## Copyright by Quyen and Son
 ### How to run the code ?
-<hr>
+
 1. Install necessary things
     - Install Ubuntu Desktop https://www.ubuntu.com/download
     - Install ffmpeg
-        * Open Terminal and type: `sudo apt-get install ffmpeg`.
-        * Enter your password and type `"Y"` if asked.
+        - Open Terminal and type: `sudo apt-get install ffmpeg`.
+        - Enter your password and type `"Y"` if asked.
     - Install gcc
         * Open Terminal and type: `sudo apt-get install gcc`
         * Enter your password and type `"Y"` if asked
